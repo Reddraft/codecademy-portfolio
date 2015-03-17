@@ -92,12 +92,12 @@ a.btn {
 }
 
 .github {
-    background-image: image-url(github.svg);
+    background-image: image-url("github.svg");
     background-position:center center
 }
 
 .linkedin {
-    background-image:image-url(linkedin.svg);
+    background-image:image-url("linkedin.svg");
     background-position:center center
 }
 
@@ -107,7 +107,7 @@ a.btn {
 }
 
 .twitter {
-    background-image:image-url(twitter.svg);
+    background-image:image-url("twitter.svg");
     background-position:center center
 }
 
@@ -122,7 +122,7 @@ a.btn {
 }
 
 .instagram {
-    background-image:
+    background-image:image-url(/assets/instagram-057a090ac0e0184c68efc07e412eec3b.svg);
     background-position:center center
 }
 
